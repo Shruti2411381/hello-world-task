@@ -1,0 +1,1 @@
+This is a beginner-level web page designed to display a simple "Hello World!" message in a web browser.
